@@ -1,0 +1,9 @@
+{
+  "name": "mapboxjs",
+  "description": "Mapboxjs assets packaged for meteor",
+  "homepage": "https://github.com/alanmeira/meteor-mapboxjs",
+  "author": "Alan Meira (http://founder.engarte.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/alanmeira/meteor-mapboxjs.git",
+  "packages": {}
+}
